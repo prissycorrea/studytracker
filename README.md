@@ -13,6 +13,7 @@ Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/pri
 
 ## ✔ Tecnologias utilizadas
 - ``VueJS``
+- ``Bulma``
 
 ## Autora
 Priscilla Correa
